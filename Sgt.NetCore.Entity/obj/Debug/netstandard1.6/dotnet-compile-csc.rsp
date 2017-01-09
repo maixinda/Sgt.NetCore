@@ -8,8 +8,8 @@
 -debug:full
 -nostdlib
 -nologo
-"G:\Works\Sgt.NetCore\Sgt.NetCore.Entity\obj\Debug\netstandard1.6\dotnet-compile.assemblyinfo.cs"
--out:"G:\Works\Sgt.NetCore\Sgt.NetCore.Entity\bin\Debug\netstandard1.6\Sgt.NetCore.Entity.dll"
+"E:\Sgt.NetCore-master\Sgt.NetCore.Entity\obj\Debug\netstandard1.6\dotnet-compile.assemblyinfo.cs"
+-out:"E:\Sgt.NetCore-master\Sgt.NetCore.Entity\bin\Debug\netstandard1.6\Sgt.NetCore.Entity.dll"
 -r:"C:\Users\fanyongli\.nuget\packages\Microsoft.CSharp\4.0.1\ref\netstandard1.0\Microsoft.CSharp.dll"
 -r:"C:\Users\fanyongli\.nuget\packages\Microsoft.EntityFrameworkCore\1.0.0\lib\netstandard1.3\Microsoft.EntityFrameworkCore.dll"
 -r:"C:\Users\fanyongli\.nuget\packages\Microsoft.EntityFrameworkCore.Relational\1.0.0\lib\netstandard1.3\Microsoft.EntityFrameworkCore.Relational.dll"
@@ -77,5 +77,5 @@
 -r:"C:\Users\fanyongli\.nuget\packages\System.Threading.Timer\4.0.1\ref\netstandard1.2\System.Threading.Timer.dll"
 -r:"C:\Users\fanyongli\.nuget\packages\System.Xml.ReaderWriter\4.0.11\ref\netstandard1.3\System.Xml.ReaderWriter.dll"
 -r:"C:\Users\fanyongli\.nuget\packages\System.Xml.XDocument\4.0.11\ref\netstandard1.3\System.Xml.XDocument.dll"
-"G:\Works\Sgt.NetCore\Sgt.NetCore.Entity\Models\Sgt_Admin.cs"
-"G:\Works\Sgt.NetCore\Sgt.NetCore.Entity\Properties\AssemblyInfo.cs"
+"E:\Sgt.NetCore-master\Sgt.NetCore.Entity\Models\Sgt_Admin.cs"
+"E:\Sgt.NetCore-master\Sgt.NetCore.Entity\Properties\AssemblyInfo.cs"

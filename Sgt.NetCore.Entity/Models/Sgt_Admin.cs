@@ -1,9 +1,20 @@
+/***
+ * 描述：本项目只为了在NetCore上开发WebApi的一个示例。项目中使用了Ef、Autofac、Newtonsoft.Json、Async、Repository、SqlServer等技术
+ * 作者：Andre
+ * 邮箱：xifucom@163.com
+ * Github： https://github.com/xifucom/Sgt.NetCore
+ ***/
+
+
 using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Sgt.NetCore.Entity.Models
 {
+    /// <summary>
+    /// 实体层
+    /// </summary>
     public partial class Sgt_Admin
     {
         public System.Guid AdminId { get; set; }

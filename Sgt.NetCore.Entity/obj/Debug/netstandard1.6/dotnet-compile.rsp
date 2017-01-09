@@ -1,5 +1,5 @@
---temp-output:G:\Works\Sgt.NetCore\Sgt.NetCore.Entity\obj\Debug\netstandard1.6\
---out:G:\Works\Sgt.NetCore\Sgt.NetCore.Entity\bin\Debug\netstandard1.6\Sgt.NetCore.Entity.dll
+--temp-output:E:\Sgt.NetCore-master\Sgt.NetCore.Entity\obj\Debug\netstandard1.6\
+--out:E:\Sgt.NetCore-master\Sgt.NetCore.Entity\bin\Debug\netstandard1.6\Sgt.NetCore.Entity.dll
 --define:DEBUG
 --define:TRACE
 --define:NETSTANDARD1_6
@@ -79,5 +79,5 @@
 --reference:C:\Users\fanyongli\.nuget\packages\System.Threading.Timer\4.0.1\ref\netstandard1.2\System.Threading.Timer.dll
 --reference:C:\Users\fanyongli\.nuget\packages\System.Xml.ReaderWriter\4.0.11\ref\netstandard1.3\System.Xml.ReaderWriter.dll
 --reference:C:\Users\fanyongli\.nuget\packages\System.Xml.XDocument\4.0.11\ref\netstandard1.3\System.Xml.XDocument.dll
-G:\Works\Sgt.NetCore\Sgt.NetCore.Entity\Models\Sgt_Admin.cs
-G:\Works\Sgt.NetCore\Sgt.NetCore.Entity\Properties\AssemblyInfo.cs
+E:\Sgt.NetCore-master\Sgt.NetCore.Entity\Models\Sgt_Admin.cs
+E:\Sgt.NetCore-master\Sgt.NetCore.Entity\Properties\AssemblyInfo.cs
